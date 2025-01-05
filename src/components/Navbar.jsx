@@ -6,7 +6,7 @@ function Navbar() {
             className='main lg:flex md:flex flex-wrap justify-between items-center px-4 bg-[#2f3640] py-4'>
             <div className="left">
                 <div className="logo font-bold text-2xl text-white text-center" style={{display:"flex", alignItems:"center", gap:"10px", color:"#ffc400"}}>
-                    <img className=' w-44' src="img/codepen.png" alt="" />
+                    <img className=' w-44' src="img/logo-black-removebg-preview.png" alt="" />
                     <h1>HTML CSS JAVASCRIPT</h1>
                 </div>
             </div>
